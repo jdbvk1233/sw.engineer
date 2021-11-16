@@ -1,0 +1,14 @@
+https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown
+https://docs.github.com/en/get-started/using-github/keyboard-shortcuts
+
+# The largest heading
+## The second largest heading
+###### The smallest heading
+
+Styling text:
+Bold text,                     ** ** or __ __,	   	**This is bold text**
+Italic text,                   * * or _ _,	        *This text is italicized*	
+Strikethrough(mistaken text),  ~~ ~~,               ~~This was mistaken text~~
+Bold and nested italic text,   ** ** and _ _,       **This text is _extremely_ important**
+All bold and italic	text,      *** ***,             ***All this text is important***	
+Quote text,                    >,                   > text that is a quote
